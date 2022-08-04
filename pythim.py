@@ -49,10 +49,10 @@
 #                     print('n =', n, 'k =', k, 'm =', m)
 # print('Общее количество натуральных решений =', total)
 # объявление функции
-def draw_triangle():
-    for i in range(10):
-        for j in range(i + 1):
-            print('*', end='')
-        print()
-
-draw_triangle()
+# def draw_triangle():
+#     for i in range(10):
+#         for j in range(i + 1):
+#             print('*', end='')
+#         print()
+#
+# draw_triangle()
